@@ -116,7 +116,7 @@ button{
 }
 .icons{
     width: 100%;
-    height: 25px;
+    height: 60px;
     text-align: center;
     border-top: 1px solid;
     border-image: linear-gradient(90deg,pink,gray);
@@ -127,7 +127,7 @@ button{
 }
 .all-icon{
     width: 25%;
-    height: 20px;
+    height: 40px;
     margin-left: auto;
     margin-right: auto;
 }
