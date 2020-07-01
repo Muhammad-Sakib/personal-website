@@ -122,9 +122,7 @@ button{
     border-image: linear-gradient(90deg,pink,gray);
     border-image-slice: 1;
 }
-.top-40 h1{
-    margin-top: -40px;
-}
+
 .all-icon{
     width: 25%;
     height: 50px;
