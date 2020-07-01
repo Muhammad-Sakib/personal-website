@@ -79,6 +79,8 @@ section{
     width: 25%;
     float: left;
     margin-left: 3%;
+    transition: all .5s;
+
 }
 .card img{
     width: 100%;
