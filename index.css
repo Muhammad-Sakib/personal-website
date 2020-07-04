@@ -139,12 +139,12 @@ button:hover {
     
 }
 footer{
-    background-color: #575757;
+    background-color: #001628;
     width: 100%;
     height: 300px;
     font-weight:500;
     padding-top: 20px;
-    color: lightgray;
+    color: #67D9D1;
 }
 .footer-sec div{
     width:20%;
@@ -158,7 +158,7 @@ footer{
 }
 .footer-sec div ul li a{
     text-decoration: none;
-    color: darkgray;
+    color: #F5D67B;
 }
 .subscribe{
     width: 40%;
