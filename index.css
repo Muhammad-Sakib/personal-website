@@ -36,15 +36,11 @@ section{
     float: left;
 }
 .half-width img{
-    position: relative;
+    
     width: 80%;
-    animation-name: picmove;
-    animation-duration: 3s;
+    
 }
-@keyframes picmove{
-    from{left: 100px;}
-    to{left:0px;}
-}
+
 .name{
     color: #EC4C7A;
     font-size: 50px;
@@ -110,7 +106,10 @@ button{
     margin-top: 50px;
     border: none;
     width: 500px;
-    box-shadow: 10px 10px 40px gray;
+    transition: box-shadow .4s;
+}
+button:hover {
+    box-shadow: 10px 10px 40px grey;
 }
 .client{
     width: 100px; 
